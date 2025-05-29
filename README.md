@@ -30,6 +30,7 @@ Without this, the system has nothing to reflect on.
 * 📊 Daily / Weekly / Monthly digest generation
 * 🔁 Automated scheduling via Celery + Redis + Flower + Beat
 * 🗃️ Clean separation of original data (memos.sqlite) and analysis results (analysis.sqlite)
+* 🔗 Outputs reflections and summaries directly to your Notion database
 * ☁️ Optional cloud sync to Cloudflare D1 for easy web access
 
 ## Philosophy
@@ -44,6 +45,7 @@ Your logs speak. This tool listens.
 * Python
 * SQLite (memos.sqlite + analysis.sqlite)
 * Celery + Redis + Flower + Beat (task orchestration)
+* Notion API for external output
 * No ORM. Raw SQL only.
 * CLI-first architecture
 * Optional: Cloudflare D1 for dashboard sync
