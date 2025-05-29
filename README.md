@@ -10,7 +10,9 @@
 
 **Eyes on Me** is an AI-powered self-reflection engine. It watches your daily memos, processes them with LLMs, and delivers daily, weekly, and monthly reports that offer a new perspective on your thoughts, actions, and habits.
 
-Not just note-taking. Awareness.
+**Not just note-taking. Awareness.**
+
+The name is a reference to the [theme song](https://en.wikipedia.org/wiki/Eyes_on_Me_(Faye_Wong_song)) from Final Fantasy VIII, originally performed by Faye Wong.
 
 ## Prerequisite
 
