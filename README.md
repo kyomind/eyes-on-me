@@ -2,7 +2,7 @@
 
 **AI insight from your own words.**
 
-> *"Did you ever know that I had mine on you?"*
+> *Did you ever know that I had mine on you?*
 
 ---
 
@@ -69,4 +69,4 @@ MIT – because insight should be free.
 
 ---
 
-> *"How I loved your peaceful eyes on me."*
+> *How I loved your peaceful eyes on me.*
